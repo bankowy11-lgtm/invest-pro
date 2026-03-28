@@ -1,0 +1,17 @@
+{
+  "name": "InvestPro — Portfolio App",
+  "short_name": "InvestPro",
+  "description": "Śledź swój portfel inwestycyjny w czasie rzeczywistym",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020305",
+  "theme_color": "#6c63ff",
+  "lang": "pl",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": []
+}
