@@ -1,0 +1,28 @@
+{
+  "name": "InvestPro — Portfolio App",
+  "short_name": "InvestPro",
+  "description": "Śledź swój portfel inwestycyjny z cenami na żywo (Finnhub)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07080f",
+  "theme_color": "#6c63ff",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": []
+}
